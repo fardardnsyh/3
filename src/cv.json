@@ -1,0 +1,151 @@
+{
+  "education": [
+    {
+      "institution": "UADE - Degree in Video Game Development",
+      "url": "https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/licenciatura-en-desarrollo-de-videojuegos/plan-de-estudios/#!",
+      "area": {
+        "n1": "Software Development",
+        "n2": "Video Game Development"
+      },
+      "startDate": "2024",
+      "endDate": "2028"
+    },
+    {
+      "institution": "Digital House",
+      "url": "https://www.digitalhouse.com/ar",
+      "area": "Full Stack Development",
+      "startDate": "2022",
+      "endDate": "2023"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advance",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advance",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advance",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Management", "Backend"]
+    },
+    {
+      "name": "GraphQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Management", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Advance",
+      "keywords": ["Versions control", "Colaborate", "Source code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advance",
+      "keywords": ["Versions control", "Colaborate", "Source code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advance",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+     {
+      "name": "C#",
+      "level": "Beginner",
+      "keywords": [
+        "Video Game Development",
+        "IA"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advance",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ShortURL",
+      "description": "ShortURL is a URL shortening service built with Node.js and Express.js, leveraging MySQL database with Sequelize ORM.",
+      "madeWith": ["Node.js", "Express.js", "MySQL", "Sequelize"],
+      "url": "https://github.com/felipeB21/Nextjs-ecommerce"
+    },
+    {
+      "name": "ToDo List",
+      "description": "It offers a simple yet effective solution for managing tasks and organizing daily activities.",
+      "madeWith": ["Node.js", "Express.js", "MySQL", "Sequelize"],
+      "url": "https://github.com/felipeB21/Nodejs-todolist"
+    },
+    {
+      "name": "Ecommerce",
+      "description": "It provides a seamless shopping experience with dynamic content and responsive design.",
+      "madeWith": ["Next.js", "Tailwind", "MongoDB"],
+      "url": "https://github.com/felipeB21/Nextjs-ecommerce"
+    },
+    {
+      "name": "Albion Live Chat",
+      "description": "Albion Live Chat is a real-time communication platform designed for Albion Online players.",
+      "madeWith": ["Node.js", "Express.js", "MongoDB", "Socket.io"],
+      "url": "#todo"
+    },
+    {
+      "name": "InsideIn",
+      "description": "InsideIn is a web application built with Next.js and Tailwind, featuring content sourced from the MovieDB API.",
+      "madeWith": ["Next.js", "Tailwind", "MovieDB"],
+      "url": "https://github.com/felipeB21/inside-in"
+    },
+    {
+      "name": "MiColectivo",
+      "beta": true,
+      "description": "Simply input your destination, and let the app do the rest, providing you with the most efficient bus routes to get you there.",
+      "madeWith": ["Next.js", "Node.js", "Tailwind", "MySQL"],
+      "url": "https://github.com/felipeB21/MiColectivo"
+    }
+  ]
+}
